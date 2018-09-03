@@ -1,0 +1,1 @@
+cmd_/work/3531/drivers/rtc_ds1339/rtc_ds1339.ko := arm-hisiv100nptl-linux-ld -EL -r  -T /work/3531/linux-3.0.y/scripts/module-common.lds --build-id  -o /work/3531/drivers/rtc_ds1339/rtc_ds1339.ko /work/3531/drivers/rtc_ds1339/rtc_ds1339.o /work/3531/drivers/rtc_ds1339/rtc_ds1339.mod.o
